@@ -1,6 +1,6 @@
 # Assignment 5.1: Coupon Acceptance Analysis
 ## File locations
 
-- Notebook: `Module-5/prompt.ipynb`
-- Notebook: Module-5/[prompt.ipynb](prompt.ipynb)
-- Data: `Module-5/data/coupons.csv`
+- README: [README](Module-5/README.md)
+- Notebook: [prompt.ipynb](Module-5/assignment5_1_starter/prompt.ipynb)
+- Data: [coupons.csv](Module-5/assignment5_1_starter/data/coupons.csv)
